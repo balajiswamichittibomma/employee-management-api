@@ -35,5 +35,4 @@ A **simple and powerful Spring Boot REST API** to manage employees. Perfect for 
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/balajiswamichittibomma/employee-management-api.git
-cd employee-management-api
+https://github.com/balajiswamichittibomma/employee-management-api.git
